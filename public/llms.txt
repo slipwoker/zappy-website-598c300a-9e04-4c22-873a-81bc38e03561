@@ -1,0 +1,100 @@
+# עגלת הבית — Generative Engine Optimization Map
+
+> A home-based shopping cart or small online store, likely selling products directly to consumers. The business appears to be a personal or home-based retail venture focused on e-commerce with a shopping cart and checkout functionality.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו אלפי מוצרי בית איכותיים בחנות האונליין של עגלת הבית. קניות אונליין לבית במשלוח מהיר עד הדלת, מחירים משתלמים ושירות אמין. הזמינו היום!
+
+### למה אנחנו
+https://example.com/why-choose-us
+משלוח מהיר, מחירים הוגנים ומוצרים איכותיים לבית — זו הסיבה שלקוחות חוזרים לעגלת הבית שוב ושוב. גלו את היתרונות שלנו ותבינו למה אנחנו הבחירה הנכונה לזוגות צעירים.
+
+### אודות
+https://example.com/about
+עגלת הבית נולדה מתוך אהבה אמיתית לעיצוב הבית ורצון לספק מוצרי בית משלוח עד הבית בקלות ובנוחות. הכירו את הצוות שלנו, את הערכים שלנו ואת המחויבות שלנו לכל לקוח.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על מוצר, משלוח או הזמנה? צוות עגלת הבית כאן בשבילכם! צרו קשר עכשיו ותקבלו מענה מהיר ואישי. כי קניות אונליין לבית במשלוח מהיר מתחילות בשיחה אחת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - עגלת הבית
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - עגלת הבית
+
+### Category
+https://example.com/category/:slug
+מוצרים - עגלת הבית
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עגלת הבית
+A home-based shopping cart or small online store, likely selling products directly to consumers. The business appears to be a personal or home-based retail venture focused on e-commerce with a shopping cart and checkout functionality.
+
+## Target Audience
+- הורים עסוקים
+- רווקים אורבניים עסוקים
+- זוגות צעירים טכנולוגיים
+
+## Industry
+קמעונאות / מכירות אונליין
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
